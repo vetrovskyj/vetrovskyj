@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @vetrovskyj
+- 👀 I’m interested in frontend development and design
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on making awsome UX/UI designs in the future
